@@ -98,7 +98,7 @@ const Register = () => {
             <section>
                 <div className="form_data">
                     <div className="form_heading">
-                        <h1>Sign Up</h1>
+                        <h1>Register</h1>
                         <p style={{ textAlign: "center" }}></p>
                     </div>
 
@@ -131,7 +131,7 @@ const Register = () => {
                             </div>
                         </div>
 
-                        <button className='btn' onClick={addUserdata}>Sign Up</button>
+                        <button className='btn' onClick={addUserdata}>Register</button>
                         <p>Already have an account? <NavLink to="/login">Log In</NavLink></p>
                     </form>
                     <ToastContainer />
