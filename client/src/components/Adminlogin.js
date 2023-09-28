@@ -87,7 +87,7 @@ const AdminLogin = () => {
                 <div className="form_data">
                     <div className="form_heading">
                         <h1>Admin, Log In</h1>
-                        <p>Hi, we are you glad you are back. Please login.</p>
+                        <p></p>
                     </div>
 
                     <form>
